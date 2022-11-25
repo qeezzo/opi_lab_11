@@ -6,4 +6,6 @@
 Специальность
 Дисциплина "Название"
 курс К, группа Г, подгруппа 1 или 2
-edit simethin
+edit simething
+soseuh
+huesos
