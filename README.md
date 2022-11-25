@@ -8,3 +8,4 @@
 курс К, группа Г, подгруппа 1 или 2
 edit simething
 soseuh
+huesos
